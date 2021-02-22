@@ -1,0 +1,293 @@
+
+/* header */
+
+header{
+    background-color: #87509c;
+    height: 600px;
+    padding-top: 55px;
+}
+
+header h1{
+    color: white;
+    margin: 140px 0 60px 0;
+}
+
+.header_button{
+    margin-bottom: 140px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #eb7d4b;
+    padding: 20px 80px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 4px solid #c86a40;
+}
+
+/* work */
+
+.services{
+    background-color: #17c2a4;
+    color: white;
+}
+
+.services h2{
+    padding: 120px 0 20px 0;
+    font-size: 40px;
+    letter-spacing: 0.1em;
+}
+
+.services p{
+    font-size: 18px;
+}
+
+.services_text{
+    margin-top: 20px;
+    margin-bottom: 80px; 
+}
+
+.directions{
+    padding-bottom: 130px;
+}
+
+.directions h3{
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 30px 0;
+}
+
+.directions p{
+    font-size: 16px;
+}
+
+
+/* team */
+
+.team{
+    background-color: #e7f1f8;
+    color: #3c4761;
+}
+
+.team h2{
+    padding: 120px 0 20px 0;
+    font-size: 41px;
+}
+
+.team_text{
+    margin: 20px 0 120px 0;
+}
+
+.personal{
+    padding: 0 30px;
+}
+
+.personal h3{
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 40px 0 15px 0;
+}
+
+.position{
+    font-size: 16px;
+    color: #48c1e9;
+}
+
+.personal p{
+    font-size: 16px;
+}
+
+.specialist{
+    padding: 0 30px 130px;
+}
+
+.social{
+    padding: 0;
+}
+
+.social li{
+    display: inline-block;
+    list-style: none;
+    
+}
+
+/* skills */
+
+.skills{
+    background-color: #fff;
+    color: #3c4761;
+}
+
+.skills h2{
+    padding: 120px 0 20px 0;
+    font-size: 41px;
+}
+
+.skills_text{
+    margin: 20px 0 120px 0;
+}
+
+.charts{
+    padding-bottom: 130px;
+}
+
+.charts p{
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* portfolio */
+
+.portfolio{
+    background-color: #ffdd99;
+    color: #3c4761;
+}
+
+.portfolio h2{
+    padding: 120px 0 20px 0;
+    font-size: 41px;
+}
+
+.portfolio_text{
+    margin: 20px 0 45px 0;
+}
+
+.portfolio_img{
+    margin-top: 60px;
+}
+
+.portfolio_img p{
+    margin-top: 30px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.portfolio_button{
+    margin: 80px 0 110px 0;
+    font-size: 18px;
+    color: #fff;
+    background-color: #17c2a4;
+    padding: 20px 80px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 4px solid #14a58c;
+}
+
+.link{
+    padding: 10px 30px;
+    background-color: #ebc985;
+    border-radius: 5px;
+    border: none;
+}
+
+.link:focus{
+    background-color: #fff;
+}
+
+/* about */
+
+.about{
+    background-color: #d74680;
+    max-height: 100%;
+}
+
+.about h2{
+    padding: 120px 0 20px 0;
+    font-size: 41px;
+    color: #fff;
+}
+
+.about_text{
+    margin: 20px 0 45px 0;
+    color: #fff;
+}
+
+.user{
+    padding: 50px 0;
+}
+
+.people{
+    margin-left: 50px;
+}
+
+blockquote{
+    font-size: 21px;
+    font-style: italic;
+    color: #f7dae6;
+}
+
+.celebrity{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.specialty{
+    font-size: 18px;
+    color: #fac996;
+}
+
+/* info */
+
+.info{
+    background-color: #3c5499;
+    color: #fff;
+}
+
+.info h2{
+    padding: 120px 0 20px 0;
+    font-size: 41px;
+}
+
+.info_text{
+    margin: 20px 0 45px 0;
+}
+
+.message{
+    height: 200px;
+    border: none;
+}
+
+.info_button{
+    margin: 80px 0 110px 0;
+    font-size: 18px;
+    color: #fff;
+    background-color: #17c2a4;
+    padding: 20px 80px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 4px solid #14a58c;
+}
+
+
+/* footer */
+
+footer{
+    background-color: #344b8e;
+    color: #fff;
+}
+
+.social{
+    display: inline-block;
+}
+
+.social_name{
+   margin: 50px 0;
+}
+
+.social_name li{
+    margin-right: 50px;
+}
+
+.social a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+}
+
+.social a:hover{
+    color: #30bae7;
+    transition: 1s;
+}
